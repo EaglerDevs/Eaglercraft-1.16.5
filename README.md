@@ -6,3 +6,5 @@ WOW! WHAT'S that? Oh wait, it's the code of eagler 1.12 flying out the window! W
 **Welcome!**
 We Are Minecraft Written In Javascript!
 We port minecraft to the web browser so you can play it!
+Man, don't you think that catfoolyou brings you down? Well, I have ported a few versions to the browser!
+Now You Test This Catfoolyou! I'm making a real good 1.16.5 client here! It's gonna work!
